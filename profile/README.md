@@ -1,19 +1,35 @@
+# 🏠 DIY Smart Room
 
-# Diy Smart Room
+An open-source collection of projects for building a smart room using custom hardware, sensors, and connected devices.
 
-This are the instructions for assembly and configuration of the base kit of this collection projects.
+Our goal is to explore DIY smart-home technologies, hardware integration, and local automation.
 
-### Prerequisites
+## 🚀 Projects
 
-Hardwear
-- rarberry-pi / mini pc
-- Esp32-c6
-- Esp32-h2
+Explore our repositories:
 
-### Schematic
+- [DHT22 to Zigbee](https://github.com/diy-smart-room/dht22-to-zigbee)
+- [ePaper](https://github.com/diy-smart-room/ePaper)
+
+## 🛠️ Hardware
+
+The base kit may include:
+
+- Raspberry Pi / Mini PC
+- ESP32-C6
+- ESP32-H2
+- Sensors and display modules
+
+> Hardware requirements may vary between projects.
+
+## 📐 Schematics
 
 
-### Softweare setup
+## ⚙️ Software Setup
 
+Each project includes its own instructions for installation, configuration, and firmware flashing.
+Check the relevant repository's README for project-specific setup instructions.
 
-## Connecting
+## 🔌 Connecting
+
+Documentation for connecting the hardware, configuring communication protocols, and integrating the devices will be added here.
