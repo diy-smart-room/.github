@@ -1,50 +1,19 @@
 
-# Project Name
+# Diy Smart Room
 
-A short description of what this project does.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Getting Started
+This are the instructions for assembly and configuration of the base kit of this collection projects.
 
 ### Prerequisites
 
-List anything needed to run the project.
+Hardwear
+- rarberry-pi / mini pc
+- Esp32-c6
+- Esp32-h2
 
-- Node.js
-- Python
-- Docker (if applicable)
+### Schematic
 
-### Installation
 
-```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-npm install
-```
+### Softweare setup
 
-### Running the Project
 
-```bash
-npm run dev
-```
-
-## Usage
-
-Explain how to use the project.
-
-## Project Structure
-
-Briefly describe the important folders and files.
-
-## Contributing
-
-Explain how others can contribute (optional).
-
-## License
-
-Add your license information (optional).
+## Connecting
