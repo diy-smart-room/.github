@@ -2,8 +2,6 @@
 
 An open-source collection of projects for building a smart room using custom hardware, sensors, and connected devices.
 
-Our goal is to explore DIY smart-home technologies, hardware integration, and local automation.
-
 ## 🚀 Projects
 
 Explore our repositories:
