@@ -12,3 +12,7 @@ Explore our repositories:
 
 > Each project includes its own instructions for installation, configuration, and firmware flashing.
 > Check the relevant repository's README for project-specific setup instructions.
+
+---
+For Matter compatibility we have instructions for turning a ESP32-C6 into a Thread radio for Home Assistant.
+- [esp-matter](https://github.com/diy-smart-room/esp-matter)
